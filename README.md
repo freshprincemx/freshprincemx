@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @freshprincemx
-- 👀 I’m interested in C# .Net, Flutter, Python 
+- 👀 I’m interested in C# .Net, Flutter, Node 
 - 🌱 I’m currently learning Flutter, JS Frameworks
 
 <!---
